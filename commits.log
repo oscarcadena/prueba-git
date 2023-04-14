@@ -1,0 +1,116 @@
+commit 934edadf6e874d321e7451dac9cfb333603905b4
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 18:35:52 2023 -0600
+
+    agregando dos parrafos
+
+commit 8028b93b8436e3e839c05fac4b1e0d20f06b5665
+Merge: 547a798 d74ff6c
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 18:33:34 2023 -0600
+
+    resolviendo conflicto en estaciones con fecha de inicio
+
+commit 547a7987b39c43a99663c023d5e48da4579f02ec
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 18:16:23 2023 -0600
+
+    Agregando estaciones del año con fecha de inicio
+
+commit d74ff6c544d1a89a4c95d6f2ca82a6056d00db57
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 18:16:23 2023 -0600
+
+    Agregando estaciones del año
+
+commit e3a4c3f948d2ba46891204f0f4a3a72e2fffa42f
+Merge: ac01ccf 4a308b1
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 14:32:16 2023 -0600
+
+    resolviendo conflicto de merge main/html en el documento index html
+
+commit 4a308b192e1e2a723a86a90c351c10cce7ebaf7a
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 14:25:59 2023 -0600
+
+    agregando index.js al index.html
+
+commit ac01ccf5fc2bac35f50a59e21bac4ebf303c0069
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 14:23:19 2023 -0600
+
+    agregando style.css al index.html
+
+commit 61a004b2d0862902a6983bafdf1c07e42b746bc8
+Merge: a8578c5 b3063a5
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 14:11:01 2023 -0600
+
+    Merge branch 'js'
+
+commit b3063a5f6537a9d3739f00d05f2b06094b686cf5
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 14:05:40 2023 -0600
+
+    creando index.js
+
+commit a8578c5da8069043fc627ba4f56de8ea3400ea07
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 13:59:51 2023 -0600
+
+    creando style.css
+
+commit 3fd91b29c1b851fd8502b6ce8cc03d68eca8b91d
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 13:54:04 2023 -0600
+
+    creando archivo index.html
+
+commit b93aa634c3926a61d665e71acd6abe8addb897ee
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 13:51:01 2023 -0600
+
+    agregando git ignore
+
+commit 7a2a03155b49a3f98ca524c108dc1dd2b669bc12
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 13:46:04 2023 -0600
+
+    borrar cosas no servian
+
+commit dbddc1b21c10673b87c37ad526a8ffda0781fcf9
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 13:08:40 2023 -0600
+
+    ignora archivos .exe
+
+commit 35151b08ef56a74345107b6dcd1bcf0be8d4fbcb
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 12:47:28 2023 -0600
+
+    Commit de pruebas
+
+commit 6e3e1ac21e47c0548756d806054920fcd08a1b81
+Author: oscarcadena <95047051+oscarcadena@users.noreply.github.com>
+Date:   Thu Apr 13 08:48:20 2023 -0700
+
+    Creando licencia del repositorio
+
+commit fb1c9ec5f977095617c29ab6f3cd29ad8a87dd50
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 09:41:38 2023 -0600
+
+    agregando mas contenido al REDME
+
+commit 562019768e9d06d2f475dbe86f0fdb41d63072f6
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 09:25:31 2023 -0600
+
+    agregando contenido al readme
+
+commit bc490d2a12ea64c3f6b43fbf2150465e09cce2f9
+Author: Oscar Cadena <cadena99oscar@gmail.com>
+Date:   Thu Apr 13 09:20:02 2023 -0600
+
+    Primer commit
